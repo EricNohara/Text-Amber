@@ -16,7 +16,7 @@ def send_mms_by_email (
     mime_subtype: str,
     provider: str, 
     sender_credentials: tuple, 
-    subject: str="sent from python", 
+    subject: str="sent from your amazing bf", 
     smtp_server: str ="smtp.gmail.com", 
     smtp_port: int = 465):
 
