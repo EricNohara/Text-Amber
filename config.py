@@ -1,7 +1,7 @@
 from datetime import date
 
-number = "3149396381"   # Replace with your phone number.
-# number = "6363179533"
+# number = "3149396381"   # Replace with your phone number.
+number = "6363179533"
 provider = "AT&T"       # Replace with correct phone provider, match with keys in dictionary provided in providers.py file.
 sender_credentials = ("eric.noharaleclair@gmail.com", "ujct wmrm kbjl pgun")       # Replace with your sender credentials.("email", "password")
 
