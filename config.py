@@ -8,7 +8,10 @@ sender_credentials = ("eric.noharaleclair@gmail.com", "ujct wmrm kbjl pgun")    
 # SENDING MMS
 mime_maintype = "image"     # Replace with correct mime maintype of downloaded media.
 mime_subtype = "jpg"        # Replace with correct mime subtype of downloaded media.
+message = "Good morning Amber! I love you sosososo much <3 I hope you have a great day! Heres a cute (or spicy) pic of us to start off your day :)"
 
 # get_img vars
 IMG_DIR = r"C:\Users\Eric\Desktop\_project_starter_\Text Amber\imgs"
 IMG_EXTENSION = "jpg"
+
+SLEEP_TIME = 5
