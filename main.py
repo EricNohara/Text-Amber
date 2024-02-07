@@ -4,7 +4,7 @@ from get_img import choose_rand_img
 
 def main():
     """Do send the message containing the user's workout for today to the user's phone via a text with an image."""
-    message = "Good morning Amber! I love you sosososo much <3 I hope you have a great day! Heres a cute (or spicy) pic of us :)"
+    message = "Good morning Amber! I love you sosososo much <3 I hope you have a great day! Heres a cute (or spicy) pic of us to start off your day :)"
 
     rand_img = choose_rand_img(IMG_DIR)
     print("Sending... ", rand_img, "\n", message)
